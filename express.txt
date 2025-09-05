@@ -1,0 +1,56 @@
+
+24214290052@OLAB06-D26 MINGW64 ~/Documents/Backend/praticas/03-api-express (main)
+$ npm init -y
+Wrote to C:\Users\24214290052\Documents\Backend\praticas\03-api-express\package.json:
+
+{
+  "name": "03-api-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
+
+
+
+24214290052@OLAB06-D26 MINGW64 ~/Documents/Backend/praticas/03-api-express (main)
+$ npm install express
+
+added 67 packages, and audited 68 packages in 9s
+
+15 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+24214290052@OLAB06-D26 MINGW64 ~/Documents/Backend/praticas/03-api-express (main)
+$ npm install --save-dev nodemon jest
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+
+added 311 packages, and audited 379 packages in 41s
+
+62 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+24214290052@OLAB06-D26 MINGW64 ~/Documents/Backend/praticas/03-api-express (main)
+$ npm install --save-dev nodemon jest supertest
+
+added 20 packages, and audited 399 packages in 9s
+
+66 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+24214290052@OLAB06-D26 MINGW64 ~/Documents/Backend/praticas/03-api-express (main)
+$
+
